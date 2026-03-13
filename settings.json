@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MinCrew.aternos.me",
+    "ip": "MinCrew.aternos.me:28569",
     "port": 28569,
     "version": "",
     "try-creative": false
